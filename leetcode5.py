@@ -78,8 +78,9 @@ class Solution4(object):
         #获取最长回文串
         begin = (centeridx - maxlen) // 2
         end = (centeridx + maxlen) // 2
+        print(s[begin:end])
         return s[begin:end]
 
 
 if __name__ == "__main__":
-    Solution.longestPalindrome(self="", s="joooohen")
+    Solution4.longestPalindrome(self="", s="joooohen")
