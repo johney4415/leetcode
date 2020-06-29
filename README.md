@@ -23,3 +23,11 @@ Problem name : Palindrome Number
 Difficulty : easy
 
 Date : 2020/6/25
+
+### [problem 15 ](https://github.com/johney4415/leetcode/blob/master/leetcode15.py "problem 15")
+Problem name : 3Sum
+
+Difficulty : Medium
+
+Date : 2020/6/29
+
