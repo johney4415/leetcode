@@ -38,3 +38,11 @@ Problem name : 3Sum
 Difficulty : Medium
 
 Date : 2020/6/29
+
+
+### [problem 17 ](https://github.com/johney4415/leetcode/blob/master/leetcode17.py "problem 17")
+Problem name : Letter Combinations of a Phone Number
+
+Difficulty : Medium
+
+Date : 2020/6/29
