@@ -12,5 +12,5 @@
 | 17   | Letter Combinations of a Phone Number | miduim | [連結](https://github.com/johney4415/leetcode/blob/master/leetcode17.py) |
 | 20   |                     Valid Parentheses |   easy | [連結](https://github.com/johney4415/leetcode/blob/master/leetcode20.py) |
 | 22   |                     Generate Parentheses |   miduim | [連結](https://github.com/johney4415/leetcode/blob/master/leetcode22.py) |
-
+| 33   |                     Search in Rotated Sorted Array   |   miduim | [連結](https://github.com/johney4415/leetcode/blob/master/leetcode33.py) |
 
