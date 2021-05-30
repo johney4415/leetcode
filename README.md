@@ -15,3 +15,5 @@
 | 33   |                     Search in Rotated Sorted Array   |   miduim | [連結](https://github.com/johney4415/leetcode/blob/master/leetcode33.py) |
 
 | 34   |Find First and Last Position of Element in Sorted Array   |   miduim | [連結](https://github.com/johney4415/leetcode/blob/master/leetcode34.py) |
+
+| 53   | Maximum Subarray  |   easy | [連結](https://github.com/johney4415/leetcode/blob/master/leetcode53.py) |
